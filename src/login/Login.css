@@ -1,0 +1,123 @@
+.main-div-2{
+    text-align: center;
+    background-image: linear-gradient(to bottom right,#5db4cc,#8ab4c0);
+    border-radius: 2%;
+    border: 4px solid rgb(14, 165, 185);
+    width: 30%;
+    margin:auto;
+    margin-top: 30px;
+    float: center;
+     
+}
+.main-div-1{
+    background-image: linear-gradient(to bottom right,#e9ebf3,#f0f1f5 );
+    
+}
+h5{
+    font-family: 'Montserrat', sans-serif;
+    color:#000000f1;
+    padding:5px auto;
+    width:auto;
+    margin:10px auto;
+    text-align: center;
+}
+.description-left{
+    position:absolute;
+    margin: 40px 0 0 33px;
+    width: 30%;
+    height: 50%;
+}
+.description-right{
+    position: relative;
+    margin: 300px 33px 0 0;
+    float: right;
+    width: 30%;
+    height: 50%;
+
+}
+
+#userid-text{
+    font-family:'Montserrat', sans-serif;
+    height: 32px;
+    width: 70%;
+    text-align: center;
+    border-radius: 15px;
+    border: 2px solid #ccced8 ;
+    border:none;
+    border-bottom: 1px solid;
+}
+.btn {
+    background: #4fbadb;
+    background-image: -webkit-linear-gradient(top, #4fbadb, #3498db);
+    background-image: -moz-linear-gradient(top, #4fbadb, #3498db);
+    background-image: -ms-linear-gradient(top, #4fbadb, #3498db);
+    background-image: -o-linear-gradient(top, #4fbadb, #3498db);
+    background-image: linear-gradient(to bottom, #4fbadb, #3498db);
+    -webkit-border-radius: 13;
+    -moz-border-radius: 13;
+    border-radius: 13px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 5px 25px 5px 25px;
+    border: solid #1f628d 1px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #0f7999;
+    background-image: -webkit-linear-gradient(top, #0f7999, #206da1);
+    background-image: -moz-linear-gradient(top, #0f7999, #206da1);
+    background-image: -ms-linear-gradient(top, #0f7999, #206da1);
+    background-image: -o-linear-gradient(top, #0f7999, #206da1);
+    background-image: linear-gradient(to bottom, #0f7999, #206da1);
+    text-decoration: none;
+  }
+
+  .span:hover{
+      color: floralwhite;
+  }
+  a{
+      text-decoration: none;
+  }
+  a:hover{
+      color: blanchedalmond;
+  }
+  .brandlogo{
+      height: 40px;
+      width: 150px;
+      margin-left: 20px;
+      text-align: center;
+  }
+  .navbar-nav{
+      margin-left: auto;
+  }
+  #contact-page{
+    position: relative;
+    padding: 0;
+    color: blanchedalmond;
+    
+    background-image: linear-gradient(to bottom right, #406180,#081635 );
+}
+.social-icons{
+    margin: 10px;
+    padding-bottom: 20px;
+}
+  .social-icons:hover{
+      color: rgb(6, 6, 15);
+  }
+  .span:hover{
+      color: blanchedalmond;
+  }
+  .hr{
+    border:  #EAF6F6 6px;
+    width: 40%;
+    margin: 20px auto;
+  }
+  .login-icon{
+      position: absolute;
+      margin-left: 10px;
+  }
+  .navbar:hover{
+      background: dark;
+  }

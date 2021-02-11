@@ -1,0 +1,19 @@
+#search-area{
+    border: 1px solid skyblue;
+    width: 55%;
+}
+#category{
+    border: 1px solid rgb(128, 255, 0);
+    background-color: rgb(232, 243, 137);
+
+}
+.datascroller-demo{
+    padding: 0px 200px;
+}
+.p-datascroller-header{
+    background-color: lightskyblue;
+}
+#clear{
+    border: 1px solid red;
+   
+}

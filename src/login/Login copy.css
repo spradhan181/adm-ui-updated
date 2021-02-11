@@ -1,0 +1,101 @@
+.main-div-2{
+    text-align: center;
+    background-image: linear-gradient(to bottom right,#5db4cc,#8ab4c0);
+    border-radius: 4%;
+    border: 4px solid rgb(14, 165, 185);
+    width: 40%;
+    margin:auto;
+    margin-top: 50px;
+    float: center;
+     
+}
+.main-div-1{
+    background-image: linear-gradient(to bottom right,#92949b,#ccced8 );
+    
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    color:#161d6f;
+    padding-top: 35px;
+}
+#userid-text{
+    font-family:'Montserrat', sans-serif;
+    height: 32px;
+    width: 50%;
+    text-align: center;
+    border-radius: 15px;
+    border: 2px solid #ccced8 ;
+}
+.btn {
+    background: #4fbadb;
+    background-image: -webkit-linear-gradient(top, #4fbadb, #3498db);
+    background-image: -moz-linear-gradient(top, #4fbadb, #3498db);
+    background-image: -ms-linear-gradient(top, #4fbadb, #3498db);
+    background-image: -o-linear-gradient(top, #4fbadb, #3498db);
+    background-image: linear-gradient(to bottom, #4fbadb, #3498db);
+    -webkit-border-radius: 13;
+    -moz-border-radius: 13;
+    border-radius: 13px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 5px 25px 5px 25px;
+    border: solid #1f628d 1px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #0f7999;
+    background-image: -webkit-linear-gradient(top, #0f7999, #206da1);
+    background-image: -moz-linear-gradient(top, #0f7999, #206da1);
+    background-image: -ms-linear-gradient(top, #0f7999, #206da1);
+    background-image: -o-linear-gradient(top, #0f7999, #206da1);
+    background-image: linear-gradient(to bottom, #0f7999, #206da1);
+    text-decoration: none;
+  }
+
+  .span:hover{
+      color: floralwhite;
+  }
+  a{
+      text-decoration: none;
+  }
+  a:hover{
+      color: blanchedalmond;
+  }
+  .brandlogo{
+      height: 40px;
+      width: 150px;
+      margin-left: 20px;
+      text-align: center;
+  }
+ 
+  .navbar-nav{
+      margin-left: auto;
+  }
+  #contact-page{
+      padding: 5% 15%;
+      color: blanchedalmond;
+      padding-top: 20px;
+      padding-bottom: 10px;
+      background-image: linear-gradient(to bottom right, #1574ce,#020918 );
+  }
+  .social-icons{
+      margin: 10px;
+      padding-bottom: 20px;
+  }
+  .social-icons:hover{
+      color: rgb(6, 6, 15);
+  }
+  .span:hover{
+      color: blanchedalmond;
+  }
+  .hr{
+    border:  #EAF6F6 6px;
+    width: 40%;
+    margin: 20px auto;
+  }
+  .login-icon{
+      position: absolute;
+      margin-left: 10px;
+  }
